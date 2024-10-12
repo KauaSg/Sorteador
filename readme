@@ -1,0 +1,32 @@
+Sorteador de Números
+Descrição do Projeto
+Este é um aplicativo web desenvolvido em HTML, CSS e JavaScript que permite ao usuário sortear números dentro de um intervalo definido. O usuário pode definir a quantidade de números que deseja sortear e o intervalo de valores. O sistema exibe os números sorteados e permite a reinicialização do sorteio.
+
+Funcionalidades
+Definir Quantidade e Intervalo: O usuário define quantos números deseja sortear e especifica o intervalo entre dois valores.
+Sorteio de Números Aleatórios: Os números são sorteados de forma aleatória, sem repetição, dentro do intervalo especificado.
+Exibição do Resultado: O resultado é exibido na tela, informando os números sorteados.
+Reiniciar Sorteio: Opção de reiniciar para redefinir a quantidade e o intervalo de sorteio.
+Estrutura do Projeto
+HTML: Estrutura do layout da página.
+CSS: Estilização da interface, com design responsivo e personalização de cores e fontes.
+JavaScript: Lógica do sorteio e controle da interação do usuário.
+Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+Como Utilizar
+Preencha os Campos:
+Insira a quantidade de números a serem sorteados.
+Defina o intervalo de sorteio, preenchendo os campos "Do número" e "Até o número".
+Sortear:
+Clique no botão "Sortear" para gerar os números aleatórios.
+Reiniciar:
+Após visualizar o resultado, clique em "Reiniciar" para redefinir e realizar um novo sorteio.
+Estrutura de Arquivos
+index.html: Arquivo principal com a estrutura HTML.
+style.css: Arquivo de estilização CSS para o layout.
+app.js: Arquivo JavaScript que contém a lógica de sorteio e interações.
+
+
+
